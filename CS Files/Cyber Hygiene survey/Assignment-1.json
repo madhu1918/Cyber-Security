@@ -1,0 +1,13 @@
+[{
+	"title": "Assignment-1",
+	"activityType": "assignment",
+	"questions": [{
+		"questionType": "fillintheblank",
+		"max_marks":10,
+		"graded": true,
+		"questionText": [{
+				"text": "submit the minutes of the group discussion<br>Note: Write down the minutes of the group discussion in a google doc and submit the link of google doc for the Assignment"
+			}
+		]
+	}]
+}]

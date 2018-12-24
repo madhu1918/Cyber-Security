@@ -36,12 +36,18 @@
         },
         {
             "activities": [
+                "Reading Activity-1",
+                "Discussion Activity-1",
+                "Assignment-1",
+                "Assignment-2"
             ],
             "learningObjectives": [
+                "Cyber hygiene report"
             ],
             "overview": [
+                "In this module you will need to create a guided survey using google like google forms (docs), or similar. You will make up questions that are specific to topics related to cyber hygiene. This survey is an anonymous ( and does not require any personally identifiable information from participants). Results of the survey are going to be part of cyber hygiene report you create later in this week."
             ],
-            "title": "Module-2"
+            "title": "Cyber Hygiene survey"
         },
         {
             "activities": [

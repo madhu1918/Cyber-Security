@@ -1,0 +1,18 @@
+[{
+	"title": "Reading Activity",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "Create a questionnaire / survey to find out cyber hygiene habits of your friends, relatives and members of your social network. "
+		},
+		{
+			"text": "<br><br>In this module you will need to create a guided survey using google like google forms (docs), or similar. You will make up questions that are specific to topics related to cyber hygiene. This survey is an anonymous ( and does not require any personally identifiable information from participants). Results of the survey are going to be part of cyber hygiene report you create later in this week.<br>Upon having the survey results you should be able to come up with statistics such as:<br>1. What percentage of your participants are digitally literate<br>2. How many of them have anti virus software in PC<br>3. How many of them get to install software in the computers<br>4. How many them use strong passwords<br>5. How many of them can list out 15 applications that are installed in their PCs<br>6. How many of them know that they have applications that are no longer necessary for them<br>7. How many of them patch systems once in a while<br>8. How many of them can differentiate legitimate email from a spam<br>9. How many of them can / have enabled personal firewall<br>10. How many of them use wifi, that is password enabled.<br>11. How many of them use pirated software<br>12. How many of then download movies / mp3 for free in the internet"
+		},
+		{
+			"text": "<b>Using your english skills make an intuitive survey about aspects of cyber hygiene. Get the questionnaire approved before you create online form. Also present to your mentor, with your survey what metric / what exactly you wanted to infer through the results.</b>"
+		},
+		{
+			"text": "<br><b>Task description:</b><br>Keep following aspects in mind while creating questions:<br>1. Whether the question is related to cyber / digital hygiene<br>2. Is there a way participants can skip the question if it does not concern them (like not applicable)<br>3. Based on result what do you want to infer.<br>4. What type of question you want to make? Text , Multiple choice, boolean<br>5. Are you providing feedback based on answer? your comments about the behaviour<br>Please get the questions approved, make online survey, and circulate survey to all members in your social list like friends, relatives, classmates, outside MSIT etc. etc. Create survey summary after 100 responses.<br><br><b>Note: You need to do an individual research on all the topics that are given above and come to a conclusion on what type of questions need to be asked.</b>"
+		}
+	]
+}]

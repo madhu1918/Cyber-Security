@@ -1,0 +1,13 @@
+[{
+	"title": "Assignment-2",
+	"activityType": "assignment",
+	"questions": [{
+		"questionType": "fillintheblank",
+		"max_marks":10,
+		"graded": true,
+		"questionText": [{
+				"text": "Submit your Survey form with results."
+			}
+		]
+	}]
+}]

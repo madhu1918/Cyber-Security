@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on cyber hygiene helps in reducing cyber attacks",
+		"activityType":"video",
+		"videoURL":"Cyber of cyber attacks FT Business Notebook.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on cyber hygiene helps in reducing cyber attacks"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

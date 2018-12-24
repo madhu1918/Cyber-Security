@@ -1,0 +1,13 @@
+[{
+	"title": "Reading Activity-1",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Social media hygiene:</b><br><a href=\"https://www.ubyssey.ca/opinion/mind-your-mind-social-media-hygiene/\"> here</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Reading Activity-1"
+	}]
+}]

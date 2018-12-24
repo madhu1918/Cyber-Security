@@ -1,0 +1,13 @@
+[{
+	"title": "Reading Activity-2",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>ad blocking:</b><br><a href=\"https://en.wikipedia.org/wiki/Ad_blocking\"> here</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Reading Activity-2"
+	}]
+}]

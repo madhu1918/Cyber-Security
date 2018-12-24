@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Video on Privacy and data protection",
+		"activityType":"video",
+		"videoURL":"Privacy and data protection.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Privacy and data protection"
+			}
+		
+		]
+	}
+]
+
+

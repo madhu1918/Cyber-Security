@@ -1,0 +1,139 @@
+{
+    "activities": [],
+    "learningObjectives": [
+        "Cyber hygiene",
+        "Host hardening",
+        "Secure coding practices"
+    ],
+    "overview": [
+        "Computer security, cybersecurity or information technology security (IT security) is the protection of computer systems from theft or damage to their hardware, software or electronic data, as well as from disruption or misdirection of the services they provide.",
+        "The field is growing in importance due to increasing reliance on computer systems, the Internet[2] and wireless networks such as Bluetooth and Wi-Fi, and due to the growth of \"smart\" devices, including smartphones, televisions and the various tiny devices that constitute the Internet of things. Due to its complexity, both in terms of politics and technology, it is also one of the major challenges of the contemporary world."
+    ],
+    "title": "Cyber Security",
+    "units": [{
+            "activities": [
+                "Video on personal cyber hygiene",
+                "Video on cyber hygiene helps in reducing cyber attacks",
+                "Video on Password hygiene",
+                "Reading Activity-1",
+                "Video on Privacy and data protection",
+                "Reading Activity-2",
+                "Discussion Activity",
+                "Assignment-1"
+            ],
+            "learningObjectives": [
+                "Cyber hygiene",
+                "Password hygiene",
+                "Social media hygiene",
+                "Privacy and data protection",
+                "Ad blocking"
+
+            ],
+            "overview": [
+                " Cyber hygiene is the establishment and maintenance of an individual's online safety. It is the online analogue of personal hygiene, and encapsulates the daily routines, occasional checks and general behaviours required to maintain a user's online \"health\" (security). This would typically include (but is not limited to): using a firewall, updating virus definitions, running security scans, selecting and maintaining passwords (and other entry systems), updating software, backing-up data and securing personal data.A key aspect of cyber hygiene is that it relates to an individual, rather than a group or an organisation. Cyber hygiene is the responsibility of the individual."
+            ],
+            "title": "Cyber hygiene"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-2"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-3"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-4"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-5"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-6"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-7"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-8"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-9"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-10"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-11"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-12"
+        }
+
+
+    ]
+}

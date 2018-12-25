@@ -1,0 +1,17 @@
+[{
+	"title": "Assignment-2",
+	"activityType": "assignment",
+	"questions": [{
+		"questionType": "fillintheblank",
+		"max_marks":10,
+		"graded": true,
+		"questionText": [{
+				"text": "Task description: In this task you will need to configure your computing devices and see if have Anti virus software, and verify if virus signatures up to date, installing anti malware (spyware) software, perform Windows update and ensure your operating system is properly patched, configure windows firewall that suit your network usage, disable simple file sharing, Secure your accounts and passwords, Enable a screen saver password, Configure windows event logs, Configure local security auditing policy.<br>In all the computing devices (desktop, windows OS, Linux OS, android or smartphone and other handheld devices) determine initial posture of the system, minimize non essential services, applications, and OS features, and make sure your system has latest patches and hotfixes available.<br>Step 1: Take backup if necessary, and uninstall unnecessary applications, disable services that are not required for your usage.<br>2. Step 2: Patch / upgrade your operating system, software applications to the latest versions as provided by the software vendors."
+			},
+			{
+				"text": "<br>Properly document this activity, if certain best practises are already in place with-in your computing device verify, make a note of it by taking a screenshot. Write a report about host hardening activity that you have perform.<br>If you were given an empty or brand new computing device how fast can you host harden? Create guidelines or automation that will help to make this activity easier for future purpose.<br><br><b>Submit report with activities you performed, along with guidelines for quick future setup.</b>"
+			},
+
+		]
+	}]
+}]

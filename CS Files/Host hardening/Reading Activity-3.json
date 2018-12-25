@@ -1,0 +1,15 @@
+[{
+	"title": "Reading Activity-3",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "List out all the services and applications that are installed in your Laptop and mobile device. Write down all the applications and services you need to use/perform on your day to day activities. Check the applications are of latest versions that are provided by your vendor.<br>List all applications in the table format given below"
+		},
+		{
+			"image": {
+				"imageSRC": "image-1.png",
+				"imageName": ""
+			}
+			}
+	]
+}]

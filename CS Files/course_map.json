@@ -51,12 +51,20 @@
         },
         {
             "activities": [
+                "Reading Activity-1",
+                "Reading Activity-2",
+                "Reading Activity-3",
+                "Discussion Activity-1",
+                "Assignment-1",
+                "Assignment-2"
             ],
             "learningObjectives": [
+                "Host hardening"
             ],
             "overview": [
+                "Host system hardening increases the overall security posture of your computing devices. Three important things for host hardening:<br>1. Determine initial posture of the system<br>2. Minimizing non essential services, applications, and OS features<br>3. Making sure your system has latest patches and hotfixes available."
             ],
-            "title": "Module-3"
+            "title": "Host hardening"
         },
         {
             "activities": [

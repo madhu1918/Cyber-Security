@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Video on Secure websites",
+		"activityType":"video",
+		"videoURL":"How to Know if a Website is Secure.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Secure websites"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

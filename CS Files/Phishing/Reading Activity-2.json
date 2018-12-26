@@ -1,0 +1,13 @@
+[{
+	"title": "Reading Activity-2",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "Phishing material <a href=\"https://www.consumer.ftc.gov/articles/0003-phishing\">Click here</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Reading Activity-2"
+	}]
+}]

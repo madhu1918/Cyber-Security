@@ -1,0 +1,14 @@
+[{
+	"title": "Assignment-2",
+	"activityType": "assignment",
+	"questions": [{
+		"questionType": "filesubmission",
+		"max_marks":10,
+		"graded": true,
+		"questionText": [{
+				"text": "This module is 2 parts<br>Part 1: Requires you to create multiple phishing like emails, and circulate it your friends and relatives. Remember this is not legal, so please do not phish for sensitive information such as bank accounts etc. Intention of this task to create awareness for your relatives and friends so please don't exploit in case they fall your emails. This academic exercise only.<br>Part 2: Requires you to create training material for phishing emails, and circulate the training material to all those who fall for your phishing mails. You may also send the training material to all those who need it.<br><b>Hints:</b> Make multiple phishing web sites that are so believable.<br><b>Note:</b> Submit in a zip file phishing emails (in PDF format), and phishing web sites you created. Also submit the training material you created.Note:<br>This module is evaluated for 10 marks.<br>1. Creating phishing email - 3 marks<br>2. Creating phishing website to enumerate information - 4 marks<br>3. Creating training material - 3 marks"			
+}
+
+		]
+	}]
+}]

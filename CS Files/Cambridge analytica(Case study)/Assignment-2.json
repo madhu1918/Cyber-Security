@@ -1,0 +1,14 @@
+[{
+	"title": "Assignment-2",
+	"activityType": "assignment",
+	"questions": [{
+		"questionType": "fillintheblank",
+		"max_marks":10,
+		"graded": true,
+		"questionText": [{
+				"text": "In this module you need to create your version of cyber hygiene best practises. Provide live examples (from screenshots) of applications (such as ad blockers, anti virus, personal firewall, password manager, privacy manager, wifi security, secure electronic communication, social media privacy preferences, host hardening etc.) that you use to maintain cyber hygiene.<br>Hints: Please keep it concise and simple, use colors, graphics and photos.<br>Note: Write down the cyber hygiene report in a google doc and submit the link of google doc for the Assignment"			
+}
+
+		]
+	}]
+}]

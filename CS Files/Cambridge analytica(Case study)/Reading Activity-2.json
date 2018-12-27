@@ -1,0 +1,13 @@
+[{
+	"title": "Reading Activity-2",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "Mark Zuckerberg testifies before congress (Full video)video Time (5h:15m:25s):<br>If you want to go through the video you can refer the below link <a href=\"https://www.youtube.com/watch?v=mZaec_mlq9M\">Click here</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Reading Activity-2"
+	}]
+}]

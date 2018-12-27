@@ -90,8 +90,13 @@
         {
             "activities": [
                 "Video 1",
+                "Reading Activity-1",
                 "Video 2",
-                "Video 3"
+                "Video 3",
+                "Reading Activity-2",
+                "Discussion Activity-1",
+                "Assignment-1",
+                "Assignment-2"
             ],
             "learningObjectives": [
                 "How cambridge analytica scandal happened",

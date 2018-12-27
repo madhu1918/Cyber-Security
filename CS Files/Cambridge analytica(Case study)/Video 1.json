@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Details of Facebook and Cambridge Analytica scandal explained here in the below video",
+		"activityType":"video",
+		"videoURL":"Facebook's Cambridge Analytica data scandal, explained.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video 1"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

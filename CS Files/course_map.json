@@ -68,21 +68,39 @@
         },
         {
             "activities": [
+                "Video on What is phishing",
+                "Video on Secure websites",
+                "Reading Activity-1",
+                "Reading Activity-2",
+                "Discussion Activity-1",
+                "Assignment-1",
+                "Assignment-2"
             ],
             "learningObjectives": [
+                "Analyse phishing email",
+                "compare phishing email to legitimate emai",
+                "sketch a sample phishing email",
+                "produce training material or guide for avoiding phishing email"
             ],
             "overview": [
+                " Phishing is “a broadly launched social engineering attack in which an electronic identity is misrepresented in an attempt to trick individuals into revealing personal credentials that can be used fraudulently against them. “Target the way we, as humans, assign meaning to content.” Semantic attacks take advantage of the way humans interact with computers. Phishing is one type of semantic attack. Phishers make use of the trust that users have on legitimate organizations."
             ],
-            "title": "Module-4"
+            "title": "Phishing"
         },
         {
             "activities": [
+                "Video 1",
+                "Video 2",
+                "Video 3"
             ],
             "learningObjectives": [
+                "How cambridge analytica scandal happened",
+                "Cyber hygiene report"
             ],
             "overview": [
+                "In this module we are going to have a case study regarding cambridge analytica scandal, we are going to Summarize cyber hygiene activity, make recommendations for your friends and relatives about cyber hygiene."
             ],
-            "title": "Module-5"
+            "title": "Cambridge analytica(Case study)"
         },
         {
             "activities": [

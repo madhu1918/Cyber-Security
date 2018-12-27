@@ -1,0 +1,23 @@
+[
+	{
+		"title":"Facebook CEO Mark Zuckerberg testified before a joint hearing in Congress to address steps the social network is taking in light of the Cambridge Analytica scandal.",
+		"activityType":"video",
+		"videoURL":"Zuckerberg's Senate hearing highlights in 10 minutes.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video 2"
+			}
+		
+		]
+	}
+]
+
+
+
+
+
+

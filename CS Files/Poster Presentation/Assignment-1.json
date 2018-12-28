@@ -1,0 +1,13 @@
+[{
+	"title": "Assignment-1",
+	"activityType": "assignment",
+	"questions": [{
+		"questionType": "filesubmission",
+		"max_marks":25,
+		"graded": true,
+		"questionText": [{
+				"text": "Submit Your Poster"
+			}
+		]
+	}]
+}]

@@ -1,0 +1,13 @@
+[{
+	"title": "Assignment-1",
+	"activityType": "assignment",
+	"questions": [{
+		"questionType": "filesubmission",
+		"max_marks":10,
+		"graded": true,
+		"questionText": [{
+				"text": "In this task, it is not necessary to use all the tools, because software listed there may be redundant. Use only the once you think is most suited to your computing environment. All the tools listed here are open source / free.<br><br>Please put the code you have created in Java from previous module, through respective code analysis tool. You may notice the issues each of these tools raise for the code that is created using your natural style(version 0) and code that is created using secure coding practises (version 1).<br><br>Modify the code created in 2.1 based on suggestions/assertions made by the tools. Submit final code along with report on static analysis tools (with necessary screenshots).<br><br>Hints: PMP and findbugs are 2 different tools for same purpose. You may want to use only one of them. Likewise for C tools ross checker and secure code validating perform similar operations. You can skip AIR tool and Clang tool in C because there are no threads and integers involved for input<br><br><b>Note:</b>Submit a.zip file contains Java code along with word document on tools you used, screen shots, and suggestions each tool made.<br><br>Evaluation Criteria: Using java tools to perform static analysis<br>1. installing tool, verifying 2.1 module code using tools, creating a report of issues - 5 marks.<br>2. Updating code to suite best practises - 5 marks."
+			}
+		]
+	}]
+}]

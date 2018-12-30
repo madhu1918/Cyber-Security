@@ -136,12 +136,17 @@
         },
         {
             "activities": [
+                "Reading Activity-1",
+                "Assignment-1"
             ],
             "learningObjectives": [
+                "Code verification"
+                "Code review"
             ],
             "overview": [
+                "This module is to help software developers reduce the number of vulnerabilities in their code using tools. Static program analysis is performed without actually executing programs.The term is usually applied to the analysis performed by an automated tool, with human analysis being called program understanding, program comprehension, or code review."
             ],
-            "title": "Module-8"
+            "title": "Code verification"
         },
         {
             "activities": [

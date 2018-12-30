@@ -1,0 +1,9 @@
+[{
+	"title": "Reading Activity-1",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "Following tools are open source and listed below to help you perform static code analysis.<br>Java programming language tools:<br>1. PMD is a source code analyzer <a href=\"https://pmd.github.io/\">Click here</a><br>2. Findbugs Java source code analyzer <a href=\"http://findbugs.sourceforge.net/\">Click here</a> "
+		}
+	]
+}]

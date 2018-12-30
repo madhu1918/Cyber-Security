@@ -1,13 +1,1 @@
-[{
-	"title": "Reading Activity-1",
-	"activityType": "quiz",
-	"quizDescription": [
-		{
-			"text": "<a href=\"https://www.cmu.edu/computing/safe/\">Click here</a> "
-		}
-	],
-	"questions": [{
-		"questionType": "summarize",
-		"questionText": "Summarize the Reading Activity-1"
-	}]
-}]
+[{"quizDescription": [{"text": "Click here "}], "activityType": "quiz", "title": "Reading Activity-1", "questions": [{"questionType": "summarize", "questionText": "Summarize the Reading Activity-1"}]}]

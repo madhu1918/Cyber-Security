@@ -119,12 +119,20 @@
         },
         {
             "activities": [
+                "Reading Activity-1",
+                "Reading Activity-2",
+                "Reading Activity-3",
+                "Reading Activity-4",
+                "Reading Activity-5",
+                "Assignment-1"
             ],
             "learningObjectives": [
+                "Secure coding practices in java"
             ],
             "overview": [
+                "Securing coding is the practice of developing computer software in a way that guards against the accidental introduction of security vulnerabilities. Defects, bugs and logic flaws are consistently the primary cause of commonly exploited software vulnerabilities. Through the analysis of thousands of reported vulnerabilities, security professionals have discovered that most vulnerabilities stem from a relatively small number of common software programming errors. By identifying the insecure coding practices that lead to these errors and educating developers on secure alternatives, organizations can take proactive steps to help significantly reduce or eliminate vulnerabilities in software before deployment."
             ],
-            "title": "Module-7"
+            "title": "Secure coding"
         },
         {
             "activities": [

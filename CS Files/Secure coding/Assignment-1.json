@@ -1,0 +1,13 @@
+[{
+	"title": "Assignment-1",
+	"activityType": "assignment",
+	"questions": [{
+		"questionType": "filesubmission",
+		"max_marks":10,
+		"graded": true,
+		"questionText": [{
+				"text": "This task is about secure coding, let us build small application in Java. First version (version 0) of your application can present you usual style of programming (not necessarily based on resources given below).<br>Following are application requirements:<ul><li>This is an authentication application, end user must register to the system with details such as username, password (repeat password), hint question, hint answer (in case of forgot password).</li><li>The command prompt asks for login, where password is hidden behind ('*').</li><li>Your application must verify if given username and password match.</li><li>Define data structures that are related to saving and storing user authentication information.</li><li>If password does not match, user is asked with 2 questions.<br>   a. Do you want to re-enter password (Y/N)?<br>     b. Did you forget password (Y/N)?</li><li>Logic must be written such that user sees the screen depending on user input.</li><li>If the user enter password incorrect (like 3 times), the account is locked. This means the user will not be allowed to login again.</li><li>If user forgets password, application provides recovery question, and change password utility.</li><li>Almost all the time for end user, password is hidden behind ('*')</li><li>If username and password matches, then application displays 'USER AUTHENTICATED: ACCESS GRANTED'</li><li>If username and password does not matches, then application displays 'USER AUTHENTICATION FAILED: ACCESS DENIED'</li></ul><br><br>Hints: You need to develop this 4 times<br>1. Application development in Java, using your natural coding style.<br>2. Optimized code in Java, using secure coding suggestions<br><br><b>Note:</b> Submit zip file containing code separated in 2 folder Java_not secure, Java_secure.<br>Evaluation Criteria: This module is evaluated for 10 marks:<br>1. Application development in Java - 10 marks.<ul><li>Whether the code is complete using natural programmer style - 3 marks.</li><li>Whether the code is complete implementing secure coding standards - 7 marks.</li></ul>"
+			}
+		]
+	}]
+}]

@@ -130,7 +130,7 @@
                 "Secure coding practices in java"
             ],
             "overview": [
-                "Securing coding is the practice of developing computer software in a way that guards against the accidental introduction of security vulnerabilities. Defects, bugs and logic flaws are consistently the primary cause of commonly exploited software vulnerabilities. Through the analysis of thousands of reported vulnerabilities, security professionals have discovered that most vulnerabilities stem from a relatively small number of common software programming errors. By identifying the insecure coding practices that lead to these errors and educating developers on secure alternatives, organizations can take proactive steps to help significantly reduce or eliminate vulnerabilities in software before deployment."
+                "Securing coding is the practice of developing computer software in a way that guards against the accidental introduction of security vulnerabilities. Defects, bugs and logic flaws are consistently the primary cause of commonly exploited software vulnerabilities. Through the analysis of thousands of reported vulnerabilities, security professionals have discovered that most vulnerabilities stem from a relatively small number of common software programming errors. By identifying the insecure coding practices that lead to these errors and educating developers on secure alternatives, organizations can take proactive steps to help significantly reduce or eliminate vulnerabilities in software before deployment"
             ],
             "title": "Secure coding"
         },
@@ -140,7 +140,7 @@
                 "Assignment-1"
             ],
             "learningObjectives": [
-                "Code verification"
+                "Code verification",
                 "Code review"
             ],
             "overview": [
@@ -150,12 +150,17 @@
         },
         {
             "activities": [
+                "Resources",
+                "Assignment-1"
             ],
             "learningObjectives": [
+                "To create security tools",
+                "checklist for computing devices."
             ],
             "overview": [
+                " In this module for all your computing devices like laptops, desktops and handheld computing devices such as mobile phones, and tablet PCs identify security tool kit (have a checklist software) that you need to have (or install). This checklist may be application or online service, or it could just be configuring OS. This exercise comes in handy every time you purchase new device or install new operating system."
             ],
-            "title": "Module-9"
+            "title": "Endpoint security"
         },
         {
             "activities": [

@@ -1,0 +1,13 @@
+[{
+	"title": "Assignment-1",
+	"activityType": "assignment",
+	"questions": [{
+		"questionType": "filesubmission",
+		"max_marks":10,
+		"graded": true,
+		"questionText": [{
+				"text": "Create security tool kit (checklist software) for all your computing devices:<ol><li>Anti software - Laptop (Windows / Linux), Mobile (Android / iOS / Windows phone)</li><li>Anti spyware (anti malware) - Laptop (Windows / Linux), Mobile (Android / iOS / Windows phone)</li><li>Personal firewall - Laptop (Windows / Linux), Mobile (Android / iOS / Windows phone)</li><li>Browser, and browser plug-ins for blocking ads, for blocking cookies.</li><li>Backup tool kit - for backing up files</li><li>Personal crypto toolkit - for encrypting directories and files.</li><li>Necessary browser settings</li><li>Necessary privacy settings inside social media</li><li>File sharing software - Laptop (Windows / Linux), Mobile (Android / iOS / Windows phone)</li><li>Other specialized security software Optional tools like blocking USBs, keyloggers,photo sharing applications, personal proxy, VPN software, packet sniffer, password manager etc.</li></ol><br>Hints: You need to identify tool is relevant for your computing environment<br>Deliverables: Demonstrate to your mentor your checklist, along with a report on why you choose specific tools for your checklist. Submit a zip file of your submission in LMS<br>Evaluation Criteria: This module is evaluated for 10 marks. Following is breakup:<br>1. Identifying appropriate tools for all computing devices - 5 marks.<br>2. Documenting tools and uses, creating report - 5 marks."
+			}
+		]
+	}]
+}]

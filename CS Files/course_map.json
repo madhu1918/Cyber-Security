@@ -164,12 +164,19 @@
         },
         {
             "activities": [
+                "Reading Activity-1",
+                "Reading Activity-2",
+                "Reading Activity-3",
+                "Discussion Activity-1",
+                "Assignment-1"
             ],
             "learningObjectives": [
+                "How to use public computers"
             ],
             "overview": [
+                " Public computers in libraries, Internet cafes, airports, copy shops,school, or even a friend's house can be safe if you follow a few simple rules when you use them. Potential risks while using public computers may include (are not limited to) people gaining access to your online activity if you are using an unsecured or illicit wireless network, there may be 'Shoulder surfing’ – people viewing your screen, loss or theft of your computer, smartphone or tablet, threats from malware including spyware that is already present on public computers, and theft of personal information from or access to browsing history on public computers."
             ],
-            "title": "Module-10"
+            "title": "Public computers"
         },
         {
             "activities": [

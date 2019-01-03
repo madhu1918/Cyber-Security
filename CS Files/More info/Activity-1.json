@@ -1,0 +1,21 @@
+[{
+	"title": "Reading Activity-1",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "<b>In the below sites there are many vulnerabilities please find the vulnerabilities that will match for your Week-1 poster and make a study of those. </b><br><a href=\"https://www.cert-in.org.in/\">https://www.cert-in.org.in/</a> "
+		},
+		{
+			"text": "Extra material-1:"
+		},
+		{
+			"attachment": ["linkedin-ransomware-report.pdf"]
+		},
+		{
+			"text": "Extra material-2:"
+		},
+		{
+			"attachment": ["CyberSafety.pdf"]
+		}
+	]
+}]

@@ -180,12 +180,17 @@
         },
         {
             "activities": [
+                "Activity-1",
+                "Discussion Activity-1",
+                "Assignment-1"
             ],
             "learningObjectives": [
+                "Extra information"
             ],
             "overview": [
+                "Summarization of the cyber hygiene and secure coding practices"
             ],
-            "title": "Module-11"
+            "title": "More info"
         },
         {
             "activities": [

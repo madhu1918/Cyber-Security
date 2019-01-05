@@ -1,0 +1,55 @@
+[{
+	"title": "Section - A",
+	"activityType": "quiz",
+	"quizDescription": [{ 
+			"text": "<b>Note:</b>write down the option as answer. If there are multiple correct options write down them as comma space separated<br>Eg: c<br>Eg: a, d"
+		}
+	],
+
+	"questions": [{
+			"questionType": "fillintheblank",
+			"questionText": [
+				{
+					"text":"Which of the following is a input validation concern<br>a. Centralize input validation routine<br>b. Specify proper character set<br>c. Validate for data range<br>d. All of the above"
+				}
+			],
+			"max_marks": 1
+		},
+		{
+			"questionType": "fillintheblank",
+			"questionText": [
+				{
+					"text":"static and dynamic analysis tools are used to detect and eliminate software flaws. <br>a. True<br>b. False"
+				}
+			],
+			"max_marks": 1
+		},
+		{
+			"questionType": "fillintheblank",
+			"questionText": [
+				{
+					"text":"Which of the following is not a typical characteristic of a ethical hacker<br>a. Having knowledge on widows<br>b. Know the process of exploiting a network vulnerabilities<br>c. Patience, persistence and perseverance<br>d. Has the highest level of security for the organisation"
+				}
+			],
+			"max_marks": 1
+		},
+		{
+			"questionType": "fillintheblank",
+			"questionText": [
+				{
+					"text":" What is the most important activity in system hacking?<br>a. Information gathering<br>b. Cracking password<br>c. Escalating privileges<br>d. Covering tracks"
+				}
+		],
+			"max_marks": 1
+		},
+		{
+			"questionType": "fillintheblank",
+			"questionText": [
+				{
+					"text":"Phishing is a form of __________<br>a. Spamming<br>b. Identity theft<br>c. Scanning<br>d. Impersonation"
+				}
+			],
+			"max_marks": 1
+		}
+	]
+}]

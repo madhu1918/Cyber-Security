@@ -1,0 +1,14 @@
+[{
+	"title": "Assignment-3",
+	"activityType": "assignment",
+	"questions": [{
+		"questionType": "fillintheblank",
+		"max_marks":5,
+		"graded": true,
+		"questionText": [
+			{
+				"text": "There is a technical breach found in your network. What are the safety precautions you will take to avoid that effect to your machine. <br><b>Note:</b>Write down the answer in a google doc and submit the link of google doc in the given blank"
+			}
+		]
+	}]
+}]

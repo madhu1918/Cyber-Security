@@ -192,14 +192,22 @@
             ],
             "title": "More info"
         },
-        {
+         {
             "activities": [
+                "Fill in the blanks-1",
+                "Fill in the blanks-2",
+                "Assignment-1",
+                "Assignment-2",
+                "Assignment-3"
             ],
-            "learningObjectives": [
-            ],
+            "learningObjectives": [],
             "overview": [
+                "Max Marks - 25",
+                "<b>Instructions:</b>",
+                "Section A is of 10 marks. There are 10 fill in the blanks. Each blank carries 1 mark.",
+                "Section B is of 15 marks. There are 3 questions each one carries 5 marks"
             ],
-            "title": "Module-12"
+            "title": "Week - 2 Exam"
         }
 
 

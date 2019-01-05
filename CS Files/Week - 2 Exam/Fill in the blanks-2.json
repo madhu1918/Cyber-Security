@@ -1,0 +1,73 @@
+[{
+	"title": "Section - A",
+	"activityType": "quiz",
+	"quizDescription": [{ 
+			"text": "<b>Note:</b>write down the option as answer. If there are multiple correct options write down them as comma space separated<br>Eg: c<br>Eg: a, d"
+		}
+	],
+
+	"questions": [{
+			"questionType": "fillintheblank",
+			"questionText": [
+				{
+					"text":"The following mail is a "
+				},
+				{
+			"image": {
+				"imageSRC": "image-1.png",
+				"imageName": ""
+			}
+			},
+			{
+					"text":"a. Phishing mail<br>b. Legitimate mail"
+			}
+			],
+			"max_marks": 1
+		},
+		{
+			"questionType": "fillintheblank",
+			"questionText": [
+				{
+					"text":"The following mail is a "
+				},
+				{
+			"image": {
+				"imageSRC": "image-2.png",
+				"imageName": ""
+			}
+			},
+			{
+					"text":"a. Phishing mail<br>b. Legitimate mail"
+			}
+			],
+			"max_marks": 1
+		},
+		{
+			"questionType": "fillintheblank",
+			"questionText": [
+				{
+					"text":"MCAfee is an example of<br>a. Virus<br>b. Anti virus<br>c. Malware<br>d. Photo editing software"
+				}
+			],
+			"max_marks": 1
+		},
+		{
+			"questionType": "fillintheblank",
+			"questionText": [
+				{
+					"text":"VIRUS stands for<br>a. Very Intelligent Result Until Source<br>b. Very Interchanged Resource Under Search<br>c. Vital Information Resource Under Siege<br>d. Viral Important Record User Searched"
+				}
+		],
+			"max_marks": 1
+		},
+		{
+			"questionType": "fillintheblank",
+			"questionText": [
+				{
+					"text":"To protect yourself from computer hacker, you should turn on a<br>a. Script<br>b. Firewall<br>c. Vpn<br>d. Antivirus"
+				}
+			],
+			"max_marks": 1
+		}
+	]
+}]

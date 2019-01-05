@@ -1,0 +1,14 @@
+[{
+	"title": "Assignment-1",
+	"activityType": "assignment",
+	"questions": [{
+		"questionType": "fillintheblank",
+		"max_marks":5,
+		"graded": true,
+		"questionText": [
+			{
+				"text": "You went to a remote place where your mobile signals are low. You need to send an email to your office. Nearby you found a wired public computer. What are the safety measure you will follow to use that wired public computer to send an email. <br><b>Note:</b>Write down the answer in a google doc and submit the link of google doc in the given blank"
+			}
+		]
+	}]
+}]
